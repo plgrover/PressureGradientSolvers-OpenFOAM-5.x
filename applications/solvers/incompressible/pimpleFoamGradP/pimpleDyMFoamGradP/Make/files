@@ -1,0 +1,3 @@
+pimpleDyMFoamGradP.C
+
+EXE = $(FOAM_APPBIN)/pimpleDyMFoamGradP
